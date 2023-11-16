@@ -3,5 +3,9 @@ In this project, we aim to perform an in-depth analysis of LinkedIn profiles usi
 [Uploading Visualization.pdf…]()
 
 pip install -r requirements.txt
+
+
 Result inside the  Visualization.pdf
+
+
 Run: project.py file 
